@@ -4,3 +4,6 @@ The idea here is to learn Multibranch Pipeline in Jenkins.
 
 ## Preview
 ![Preview](src/images/portfolio.png)
+
+## React Template Credits
+https://github.com/rbhatia46/React-Portfolio
